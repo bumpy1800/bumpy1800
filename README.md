@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there :wave: <br><br>
-I'm an aspiring <b>web backend developer</b> using <b>php</b>
+I'm <b>web full stack developer</b> using <b>php</b>
 </h3>
 
 <br>
@@ -18,7 +18,6 @@ I'm an aspiring <b>web backend developer</b> using <b>php</b>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 </p>
 
 <div align="center">
